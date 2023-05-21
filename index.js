@@ -1,3 +1,5 @@
-const msg = 'hi judy, hi angel, hi kinu!'
-
-console.log(msg)
+const movies =
+{
+    'The God Father': {},
+    'The God Father 2': {},
+}
